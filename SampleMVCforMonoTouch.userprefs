@@ -1,42 +1,6 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone.6.1" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="SampleMVCforMonoTouch/AppDelegate.cs">
-    <Files>
-      <File FileName="SampleMVCforMonoTouch/SampleMVCforMonoTouchViewController.cs" Line="1" Column="1" />
-      <File FileName="SampleMVCforMonoTouch/SampleMVC/SampleMain.cs" Line="1" Column="1" />
-      <File FileName="SampleMVCforMonoTouch/SampleMVC/Model.cs" Line="1" Column="1" />
-      <File FileName="SampleMVCforMonoTouch/SampleMVC/Views.cs" Line="1" Column="1" />
-      <File FileName="SampleMVCforMonoTouch/SampleMVC/TextViews.cs" Line="1" Column="1" />
-      <File FileName="SampleMVCforMonoTouch/SampleMVC/Controllers.cs" Line="1" Column="1" />
-      <File FileName="SampleMVCforMonoTouch/AppDelegate.cs" Line="19" Column="3" />
-    </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State expanded="True" selected="True">
-          <Node name="SampleMVCforMonoTouch" expanded="True">
-            <Node name="SampleMVC" expanded="True" />
-          </Node>
-        </State>
-      </Pad>
-      <Pad Id="ClassPad">
-        <State expanded="True" selected="True" />
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State>
-          <Value>NSUserDefaults.StandardUserDefaults.StringForKey("URL")</Value>
-          <Value>NSUserDefaults.StandardUserDefaults["URL"]</Value>
-          <Value>NSUserDefaults.StandardUserDefaults.length</Value>
-          <Value>_customer.Guests[0]</Value>
-          <Value>this</Value>
-          <Value>TableView</Value>
-          <Value>NavigationController</Value>
-        </State>
-      </Pad>
-      <Pad Id="ConnectionManagerPad">
-        <State selected="True" />
-      </Pad>
-    </Pads>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhoneRetina.7.1" />
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
