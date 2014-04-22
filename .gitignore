@@ -1,13 +1,11 @@
-# Compiled Object files
-*.slo
-*.lo
-*.o
+*.pidb
+*.userprefs
+*.swp
+*.DS_Store
+*.nib
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
 
-# Compiled Static libraries
-*.lai
-*.la
-*.a
+*/bin/*
+*/obj/*
+*/*/bin/*
+*/*/obj/*
